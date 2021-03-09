@@ -1,5 +1,7 @@
 import RepositoryItem from './RepositoryItem';
 
+import '../styles/repositories.scss';
+
 const repository = {
   name: 'moveIt',
   description: 'Recupere o foco e seja mais produtivo com o Move.it!',
@@ -7,7 +9,7 @@ const repository = {
 };
 
 const RepositoryList = () => (
-  <section className="repoistory-list">
+  <section className="repository-list">
     <h1>Lista de repositórios</h1>
 
     <ul>
