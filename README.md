@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/made%20by-Rafael%20Martins-%2306b656?style=flat-square" alt="Made by Rafael Martins">
   
- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/aulas-gostack?color=%2306b656&style=flat-square">
+ <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/ignite-reactjs?color=%2306b656&style=flat-square">
 
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-%2306b656?style=flat-square" alt="License MIT">
