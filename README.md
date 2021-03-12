@@ -25,7 +25,7 @@
 
 ### Chapter I
 - [Fundamentos do ReactJS](chapter-01/01-fundamento-reactjs)
-- [Desafio: Conceitos do React](chapter-01/02-conceitos-do-reactjs)
+- [Desafio 01: Conceitos do React](chapter-01/02-conceitos-do-reactjs)
 
 <br>
 
