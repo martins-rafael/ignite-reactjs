@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="../../.github/ignite.png" alt="Ignite" >
+  <img src="../.github/ignite.png" alt="Ignite" >
   <br><br>
 Fundamentos do ReactJS
 </h1>
@@ -16,3 +16,9 @@ Nesse módulo criamos a estrutura base de uma aplicação React utilizando ferra
 - Chamadas HTTP
 - Usando Typescript
 - Finalizando a Aplicação
+
+### Instalação e uso
+
+- rode `yarn install` para instalar as dependências.
+- rode `yarn dev` para iniciar o projeto.
+- Acesse `http://localhost:8080` no seu navegador.
