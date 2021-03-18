@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import Modal from 'react-modal';
 
+import { TransactionsProvider } from './Transactionscontext';
+
 import { Dashboard } from "./components/Dashboard";
 import { Header } from "./components/Header";
 import { NewTransactionModal } from './components/NewTransactionModal';
@@ -24,7 +26,7 @@ export const App = () => {
   }
 
   return (
-    <>
+    <TransactionsProvider>
       <GlobalStyle />
 
       <Header onOpenNewTransactionModal={handleOpenNewTransactionModal} />
@@ -35,6 +37,6 @@ export const App = () => {
         isOpen={isNewTransactionModalOpen}
         onRequestClose={handleCloseNewTransactionModal}
       />
-    </>
+    </TransactionsProvider>
   );
 }
