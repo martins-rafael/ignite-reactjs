@@ -30,6 +30,12 @@
 
 ### Chapter II
 - [Primeira Aplicação Web com ReactJS](02-primeira-aplicacao-reactjs)
+- [Desafio 01: Criando um hook de carrinho de compras](https://github.com/martins-rafael/lunarshoes)
+- [Desafio 02: Refactoring de classes e TypeScript](https://github.com/martins-rafael/gorestaurant)
+
+
+### Chapter III
+- [Fundamentos do Next.js](03-fundamentos-next)
 
 <br>
 
