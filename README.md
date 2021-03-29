@@ -37,6 +37,7 @@
 ### Chapter III
 - [Fundamentos do Next.js](03-fundamentos-next)
 - [Back-end no front-end](04-backend-no-frontend)
+- [Front-end JAMStack](05-frontend-jamstack)
 
 <br>
 

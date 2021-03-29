@@ -2,7 +2,7 @@
   <br>
   <img src="../.github/ignite.png" alt="Ignite" >
   <br><br>
-Fundamentos do ReactJS
+Primeira Aplicação Web com ReactJS
 </h1>
 
 Nesse módulo construímos uma aplicação front-end web completa utilizando conceitos e ferramentas importantes do ecossistema React como Styled Components, MirageJS, Context API, hooks, Axios e muito mais.

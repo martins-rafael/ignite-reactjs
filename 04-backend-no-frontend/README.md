@@ -2,7 +2,7 @@
   <br>
   <img src="../.github/ignite.png" alt="Ignite" >
   <br><br>
-Fundamentos do Next.js
+Back-end no front-end
 </h1>
 
 Durante esse módulo entenderemos como o front-end se transformou nos últimos anos com a possibilidade de termos funções back-end (serverless) executando em um ambiente front-end.
