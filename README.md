@@ -38,6 +38,7 @@
 - [Fundamentos do Next.js](03-fundamentos-next)
 - [Back-end no front-end](04-backend-no-frontend)
 - [Front-end JAMStack](05-frontend-jamstack)
+- [Desafio 01: Criando um projeto do zero](https://github.com/martins-rafael/spacetraveling)
 
 ### Chapter IV
 - [Construindo interfaces do futuro](06-construindo-interfaces-do-futuro)
