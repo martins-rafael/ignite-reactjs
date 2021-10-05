@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { useEffect } from 'react'
 import {
   Box,
   Button,
@@ -26,6 +27,15 @@ export default function UserList() {
     base: false,
     lg: true
   });
+
+  useEffect(() => {
+    const fetchUsers = async () => {
+      const response = await fetch('http://localhost:3000/api/users');
+      const data = await response.json();
+      console.log(data);      
+    };
+    fetchUsers();
+  }, []);
 
   return (
     <Box>
