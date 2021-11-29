@@ -43,6 +43,7 @@
 ### Chapter IV
 - [Construindo interfaces do futuro](06-construindo-interfaces-do-futuro)
 - [Data fetching e cache local](07-data-fetching-e-cache-local)
+- [Autenticação e autorização](08-autenticacao-e-autorizacao)
 
 <br>
 
