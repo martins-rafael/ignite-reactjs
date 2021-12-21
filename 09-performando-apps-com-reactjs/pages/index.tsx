@@ -1,6 +1,8 @@
 import { FormEvent, useState } from "react";
 import { SearchResults } from "../components/SearchResults";
 
+import styles from "../styles/Home.module.css";
+
 const Home = () => {
   const [search, setSearch] = useState('');
   const [results, setResults] = useState([]);
@@ -18,17 +20,18 @@ const Home = () => {
   }
 
   return (
-    <div>
-      <h1>Busca</h1>
+    <div className={styles.main}>
+      <h1 className={styles.title}>Busca</h1>
 
-      <form onSubmit={handleSearch}>
+      <form className={styles.form} onSubmit={handleSearch}>
         <input
           type="text"
+          className={styles.input}
           value={search}
           onChange={({ target }) => setSearch(target.value)}
         />
 
-        <button type="submit">Buscar</button>
+        <button type="submit" className={styles.button}>Buscar</button>
       </form>
 
       <SearchResults results={results} />

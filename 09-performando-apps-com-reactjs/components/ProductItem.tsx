@@ -8,7 +8,7 @@ type ProductItemProps = {
 
 export const ProductItem = ({ product }: ProductItemProps) => {
   return (
-    <div>
+    <div style={{marginBottom: "1rem"}}>
       {product.title} - <strong>{product.price}</strong>
     </div>
   );
