@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/License-MIT-%2306b656?style=flat-square" alt="License MIT">
   </a>
 
-  <img src="https://img.shields.io/badge/status-IN%20PROGRESS-%2306b656?style=flat-square" alt="status">
+  <img src="https://img.shields.io/badge/status-COMPLETE-%2306b656?style=flat-square" alt="status">
 </p>
 
 <br>
@@ -44,6 +44,10 @@
 - [Construindo interfaces do futuro](06-construindo-interfaces-do-futuro)
 - [Data fetching e cache local](07-data-fetching-e-cache-local)
 - [Autenticação e autorização](08-autenticacao-e-autorizacao)
+
+### Chapter V
+- [Performando apps com ReactJS](09-performando-apps-com-reactjs)
+- [Testes unitários no React](10-testes-unitarios-no-react)
 
 <br>
 
