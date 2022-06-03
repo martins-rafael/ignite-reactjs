@@ -2,19 +2,22 @@
   <br>
   <img src="../.github/ignite.png" alt="Ignite" >
   <br><br>
-Front-end JAMStack
+  Testes unitários no React
 </h1>
 
-É muito comum o desenvolvimento de aplicações front-end que não estão conectadas a um único back-end hoje em dia, por isso, aqui vamos entender o conceito de JAMStack e como conectar nosso front-end com um CMS.
+Nesse módulo vamos entender como criar testes automatizados de unidade dentro do React garantindo que nossos componentes e páginas continuem funcionando independente de novas manutenções. Tudo isso usando Jest e Testing Library.
 
 <br>
 
 ### Conteúdo
 
-- Trabalhando com CMS
-- Páginas estáticas
+- Introdução
+- Testando componentes
+- Testando páginas
+- Dicas em testes unitários
 
 ### Instalação e uso
 
 - rode `yarn install` para instalar as dependências.
 - rode `yarn dev` para iniciar o projeto.
+- rode `yarn test` para executar os testes.
